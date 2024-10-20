@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingProtectedMembers_01", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding_01", "MethodOverriding_01\MethodOverriding_01.csproj", "{C7E577A4-6932-43EE-BA82-64E85C0164D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLevelInheritanceAndPolymorphism_01", "MultiLevelInheritanceAndPolymorphism_01\MultiLevelInheritanceAndPolymorphism_01.csproj", "{0658F05E-EDAE-4CF6-BB6E-89023FEEBB82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C7E577A4-6932-43EE-BA82-64E85C0164D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E577A4-6932-43EE-BA82-64E85C0164D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E577A4-6932-43EE-BA82-64E85C0164D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0658F05E-EDAE-4CF6-BB6E-89023FEEBB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0658F05E-EDAE-4CF6-BB6E-89023FEEBB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0658F05E-EDAE-4CF6-BB6E-89023FEEBB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0658F05E-EDAE-4CF6-BB6E-89023FEEBB82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

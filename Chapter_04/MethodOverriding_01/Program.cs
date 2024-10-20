@@ -21,23 +21,26 @@ public class Cat : Animal
     }
 }
 
-public class Program
+namespace MethodOverriding_01
 {
-    // Creating the Main() function where the application starts
-    static void Main()
+    public class Program
     {
-        Console.WriteLine("Program to demonstrate method overriding in C# with Visual Studio\n");
+        // Creating the Main() function where the application starts
+        static void Main()
+        {
+            Console.WriteLine("Program to demonstrate method overriding in C# with Visual Studio\n");
 
-        // Creating the animal_object object using the "Animal" class 
-        Animal animal = new Animal();
+            // Creating the animalObject object using the "Animal" class 
+            Animal animalObject = new Animal();
 
-        // Creating the cat_object object using the "Cat" class 
-        Cat cat = new Cat();
+            // Creating the catObject object using the "Cat" class 
+            Cat catObject = new Cat();
 
-        // Calling the Sound() method of the animal_object
-        animal.Sound();
+            // Calling the Sound() method of the animalObject
+            animalObject.Sound();
 
-        // Calling the Sound() method of the cat_object
-        cat.Sound();
+            // Calling the Sound() method of the catObject
+            catObject.Sound();
+        }
     }
 }
