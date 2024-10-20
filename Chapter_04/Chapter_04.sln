@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleInheritance_01", "Sim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceWithConstructor_01", "InheritanceWithConstructor_01\InheritanceWithConstructor_01.csproj", "{5B21E331-A003-4886-9323-3CE32667603E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingProtectedMembers_01", "UsingProtectedMembers_01\UsingProtectedMembers_01.csproj", "{1D742EC0-E9B8-4307-8C44-7A7F85E5D6CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5B21E331-A003-4886-9323-3CE32667603E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B21E331-A003-4886-9323-3CE32667603E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B21E331-A003-4886-9323-3CE32667603E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D742EC0-E9B8-4307-8C44-7A7F85E5D6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D742EC0-E9B8-4307-8C44-7A7F85E5D6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D742EC0-E9B8-4307-8C44-7A7F85E5D6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D742EC0-E9B8-4307-8C44-7A7F85E5D6CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
