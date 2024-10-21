@@ -4,18 +4,18 @@
 // Creating the parent/base class "Vehicle"
 public class Vehicle
 {
-    public string Brand;
+    public string brand;
 
     // Implementation of constructor in the parent class "Vehicle"
-    public Vehicle(string brand)
+    public Vehicle(string brandParameter)
     {
-        Brand = brand;
+        brand = brandParameter;
     }
 
     // Implementation of ShowBrand() method in the parent class "Vehicle"
     public void ShowBrand()
     {
-        Console.WriteLine($"Car brand: {Brand} (Parent class method implementation)");
+        Console.WriteLine($"Car brand: {brand} (Parent class method implementation)");
     }
 }
 
@@ -42,8 +42,14 @@ namespace InheritanceWithConstructor_01
             // Creating the carObject object using the "Car" class
             Car carObject = new Car("BMW");
 
+            // Creating the marutiObject object using the "Car" class
+            Car marutiObject = new Car("Wagon R");
+
             // Calling the ShowBrand() method of the child class carObject implemented in the parent class "Vehicle"
             carObject.ShowBrand();
+
+            // Calling the ShowBrand() method of the child class marutiObject implemented in the parent class "Vehicle"
+            marutiObject.ShowBrand();
         }
     }
 }

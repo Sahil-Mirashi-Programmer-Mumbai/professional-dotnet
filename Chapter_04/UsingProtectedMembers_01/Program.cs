@@ -4,12 +4,12 @@
 // Creating the parent/base class "Appliance"
 public class Appliance
 {
-    protected string brand;
+    protected string _brand;
 
     // Implementation of constructor
     public Appliance(string brandName)
     {
-        brand = brandName;
+        _brand = brandName;
     }
 }
 
@@ -21,7 +21,7 @@ public class WashingMachine : Appliance
     // Implementation of ShowBrand() method in the child class "WashingMachine"
     public void ShowBrand()
     {
-        Console.WriteLine($"Brand name is {brand} (Child class method implementation)");
+        Console.WriteLine($"Brand name is {_brand} (Child class method implementation)");
     }
 }
 
