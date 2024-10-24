@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\bin\Debug\net8.0\PolymorphicBehaviorWithArray.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\bin\Debug\net8.0\PolymorphicBehaviorWithArray.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\bin\Debug\net8.0\PolymorphicBehaviorWithArray.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\bin\Debug\net8.0\PolymorphicBehaviorWithArray.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\bin\Debug\net8.0\PolymorphicBehaviorWithArray.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\PolymorphicBehaviorWithArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\PolymorphicBehaviorWithArray.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\PolymorphicBehaviorWithArray.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\PolymorphicBehaviorWithArray.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\PolymorphicBehaviorWithArray.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\PolymorphicBehaviorWithArray.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\refint\PolymorphicBehaviorWithArray.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\PolymorphicBehaviorWithArray.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\PolymorphicBehaviorWithArray.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\PolymorphicBehaviorWithArray\obj\Debug\net8.0\ref\PolymorphicBehaviorWithArray.dll

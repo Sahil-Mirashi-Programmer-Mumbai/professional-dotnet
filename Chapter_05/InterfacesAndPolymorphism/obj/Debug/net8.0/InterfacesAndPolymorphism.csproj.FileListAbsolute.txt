@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\bin\Debug\net8.0\InterfacesAndPolymorphism.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\bin\Debug\net8.0\InterfacesAndPolymorphism.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\bin\Debug\net8.0\InterfacesAndPolymorphism.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\bin\Debug\net8.0\InterfacesAndPolymorphism.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\bin\Debug\net8.0\InterfacesAndPolymorphism.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\InterfacesAndPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\InterfacesAndPolymorphism.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\InterfacesAndPolymorphism.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\InterfacesAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\InterfacesAndPolymorphism.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\InterfacesAndPolymorphism.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\refint\InterfacesAndPolymorphism.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\InterfacesAndPolymorphism.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\InterfacesAndPolymorphism.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_05\InterfacesAndPolymorphism\obj\Debug\net8.0\ref\InterfacesAndPolymorphism.dll

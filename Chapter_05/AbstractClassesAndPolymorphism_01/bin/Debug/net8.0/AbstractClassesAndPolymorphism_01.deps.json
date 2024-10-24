@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbstractClassesAndPolymorphism_01/1.0.0": {
+        "runtime": {
+          "AbstractClassesAndPolymorphism_01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractClassesAndPolymorphism_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
