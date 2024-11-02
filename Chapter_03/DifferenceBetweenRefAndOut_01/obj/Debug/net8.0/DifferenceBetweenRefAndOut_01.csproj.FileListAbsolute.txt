@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\bin\Debug\net8.0\DifferenceBetweenRefAndOut_01.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\bin\Debug\net8.0\DifferenceBetweenRefAndOut_01.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\bin\Debug\net8.0\DifferenceBetweenRefAndOut_01.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\bin\Debug\net8.0\DifferenceBetweenRefAndOut_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\bin\Debug\net8.0\DifferenceBetweenRefAndOut_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\DifferenceBetweenRefAndOut_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\DifferenceBetweenRefAndOut_01.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\DifferenceBetweenRefAndOut_01.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\DifferenceBetweenRefAndOut_01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\DifferenceBetweenRefAndOut_01.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\DifferenceBetweenRefAndOut_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\refint\DifferenceBetweenRefAndOut_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\DifferenceBetweenRefAndOut_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\DifferenceBetweenRefAndOut_01.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\DifferenceBetweenRefAndOut_01\obj\Debug\net8.0\ref\DifferenceBetweenRefAndOut_01.dll
