@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsingProtectedMembers_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9f73c0deadc1d70df9ef8b6569b2cd1d924b4dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b0a4e7cfe9c4f39f9601bf92c59e384400c699")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsingProtectedMembers_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsingProtectedMembers_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
