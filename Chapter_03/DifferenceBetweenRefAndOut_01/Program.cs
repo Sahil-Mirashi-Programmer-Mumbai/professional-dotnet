@@ -9,7 +9,7 @@ namespace DifferenceBetweenRefAndOut_01
         {
             Console.WriteLine("Program to demonstrate difference between ref and out in C# with Visual Studio\n");
 
-            int number_1 = 10;
+            int number_1 = 7;
             int number_2;
 
             // Both 'ref' and 'out' are used to pass arguments by reference, but they behave differently.
@@ -22,14 +22,14 @@ namespace DifferenceBetweenRefAndOut_01
 
         static void ModifyRef(ref int number)
         {
-            // 'ref' requires the variable to be initialized before passing.
-            number += 10;
+            // 'ref' variable must be initialized before it's passed into the method
+            number *= number;
         }
 
         static void ModifyOut(out int number)
         {
-            // 'out' does not require initialization before passing.
-            number = 50;
+            // 'out' variable doesn’t need to be initialized before being passed to the method
+            number = 10; // Must assign a value before the method ends
         }
     }
 }

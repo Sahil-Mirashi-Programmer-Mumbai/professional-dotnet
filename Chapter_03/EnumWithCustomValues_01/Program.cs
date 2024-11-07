@@ -8,7 +8,7 @@ namespace EnumWithCustomValues_01
     enum StatusCode
     {
         Success = 100,
-        Warning = 300,
+        Warning = 200,
         Error = 500,
     }
 
@@ -22,9 +22,9 @@ namespace EnumWithCustomValues_01
             StatusCode status = StatusCode.Success;
 
             // Checking the value of the enum using a conditional statement.
-            if (status == StatusCode.Success)
+            if(status == StatusCode.Success)
             {
-                Console.WriteLine($"Status Code: {status}");
+                Console.WriteLine($"Status: {status} Status Code: {(int)status}"); // Status: Success Status Code: 100
             }
         }
     }

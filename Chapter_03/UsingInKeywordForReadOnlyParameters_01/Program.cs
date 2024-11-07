@@ -6,25 +6,23 @@ namespace UsingInKeywordForReadOnlyParameters_01
     internal class Program
     {
         // Method that takes a read-only argument using 'in'.
-        static void ShowValue(in int value)
+        static void ShowValue(in int number)
         {
-            Console.WriteLine($"Value: {value}");
+            Console.WriteLine($"Number: {number}");
 
-            // Uncommenting the line below will cause a compile error as 'in' prevents modification.
-            // value = 200;
+            // Un-commenting the below line will give compiler error 'in' restricts modification
+            // number = 200; 
         }
 
         static void Main(string[] args)
         {
             Console.WriteLine("Program to demonstrate using in keyword for readonly parameters in C# with Visual Studio\n");
 
-            // Initialize a value.
-            int number = 100;
+            int number;
 
-            // Pass the value to the method using 'in'.
-            // 'in' ensures the method cannot modify the original value.
-            ShowValue(in number);
+            number = 100000;
 
+            ShowValue(in number); // 'in' must be initialized before method calling
         }
     }
 }

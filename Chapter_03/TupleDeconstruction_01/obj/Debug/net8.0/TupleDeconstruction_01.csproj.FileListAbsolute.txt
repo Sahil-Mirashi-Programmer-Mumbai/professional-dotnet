@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\bin\Debug\net8.0\TupleDeconstruction_01.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\bin\Debug\net8.0\TupleDeconstruction_01.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\bin\Debug\net8.0\TupleDeconstruction_01.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\bin\Debug\net8.0\TupleDeconstruction_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\bin\Debug\net8.0\TupleDeconstruction_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\TupleDeconstruction_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\TupleDeconstruction_01.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\TupleDeconstruction_01.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\TupleDeconstruction_01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\TupleDeconstruction_01.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\TupleDeconstruction_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\refint\TupleDeconstruction_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\TupleDeconstruction_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\TupleDeconstruction_01.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_03\TupleDeconstruction_01\obj\Debug\net8.0\ref\TupleDeconstruction_01.dll

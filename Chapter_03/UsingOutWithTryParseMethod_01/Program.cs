@@ -9,19 +9,18 @@ namespace UsingOutWithTryParseMethod_01
         {
             Console.WriteLine("Program to demonstrate using out with TryParse method in C# with Visual Studio\n");
 
-            string number = "777";
+            string number = "7777";
             int parsed_number;
 
             // TryParse uses out to return parsed number or default value zero
             if(int.TryParse(number, out parsed_number))
             {
-                Console.WriteLine($"Parsed number: {parsed_number}"); // Output: Parsed number: 777
+                Console.WriteLine($"Parsed Number: {parsed_number}");
             }
             else
             {
-                Console.WriteLine("Failed to parse"); // Output: Failed to parse
+                Console.WriteLine("Unable to parse");
             }
-
         }
     }
 }

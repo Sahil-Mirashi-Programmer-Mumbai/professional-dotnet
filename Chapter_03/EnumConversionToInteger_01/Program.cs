@@ -7,10 +7,10 @@ namespace EnumConversionToInteger_01
     // Enum values are implicitly assigned starting from 0.
     enum OrderStatus
     {
-        Pending,
-        Processing,
-        Dispatched,
-        Delivered
+        Placed, // 0
+        Processing, // 1
+        Shipping, // 2
+        Delivered // 3
     }
 
     internal class Program
@@ -20,13 +20,13 @@ namespace EnumConversionToInteger_01
             Console.WriteLine("Program to demonstrate Enum Conversion to Integer in C# with Visual Studio\n");
 
             // Assigning an enum value to 'OrderStatus'.
-            OrderStatus status = OrderStatus.Processing;
+            OrderStatus status = OrderStatus.Shipping;
 
             // Converting the enum value to its underlying integer.
-            int statusCode = (int)status;
+            int status_code = (int)status;
 
             // Displaying the integer value of the enum.
-            Console.WriteLine($"Order Status Code: {statusCode}");
+            Console.WriteLine($"Status Code: {status_code}");
         }
     }
 }

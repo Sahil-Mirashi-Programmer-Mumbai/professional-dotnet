@@ -5,13 +5,12 @@ namespace UsingFlagsToDefinePermissions_01
 {
     // Define an enum with the Flags attribute to represent different user permissions
     [Flags]
-    public enum UserPermissions
+    enum FilePermission
     {
-        None = 0,         // No permissions
-        Read = 1 << 0,    // Permission to read (1)
-        Write = 1 << 1,   // Permission to write (2)
-        Execute = 1 << 2, // Permission to execute (4)
-        Delete = 1 << 3   // Permission to delete (8)
+        None = 1 << 0,
+        Read = 1 << 1,
+        Write = 1 << 2,
+        Execute = 1 << 3
     }
 
     internal class Program
@@ -22,27 +21,25 @@ namespace UsingFlagsToDefinePermissions_01
 
             // Combine Read and Write permissions using bitwise OR
             // This user has both Read and Write permissions.
-            UserPermissions user1Permissions = UserPermissions.Read | UserPermissions.Write;
+            FilePermission userPermissions = FilePermission.Read | FilePermission.Write;
 
             // Check if user1 has Write permission using bitwise AND
-            // This will print "User has Write permission."
-            if ((user1Permissions & UserPermissions.Write) == UserPermissions.Write)
+            // This will print "User has Write permission"
+            if ((userPermissions & FilePermission.Write) == FilePermission.Write)
             {
-                Console.WriteLine("User has Write permission.");
+                Console.WriteLine("User has write permission");
             }
 
-            Console.WriteLine("Removing Write permission of user1Permissions\n");
-            // Remove Write permission using bitwise AND with NOT
-            // This will remove the Write permission from user1.
-            user1Permissions &= ~UserPermissions.Write;
+            userPermissions = ~FilePermission.Write; // Removing write permission from user
 
-            if ((user1Permissions & UserPermissions.Write) == UserPermissions.Write)
+            // This will print "User does not have write permission"
+            if ((userPermissions & FilePermission.Write) == FilePermission.Write)
             {
-                Console.WriteLine("User has Write permission.");
+                Console.WriteLine("User has write permission");
             }
             else
             {
-                Console.WriteLine("User does not have Write permission.");
+                Console.WriteLine("User does not have write permission");
             }
         }
     }

@@ -12,21 +12,21 @@ namespace UsingRefKeywordForValueUpdate_01
             // Declare and initialize a variable.
             int number = 10;
 
+            Console.WriteLine($"Before method calling: {number}");
+
             // Pass the variable to the method using 'ref'.
             // 'ref' allows the method to modify the original variable.
-            Console.WriteLine("Before: " + number); // Output: Before: 10
-
             AddFive(ref number);
-            
-            Console.WriteLine("After: " + number);  // Output: After: 15
+
+            Console.WriteLine($"After method calling: {number}");
         }
 
         // Method that takes an argument by reference.
         // Using 'ref' ensures the original value gets modified.
-        public static void AddFive(ref int num)
+        static void AddFive(ref int number)
         {
-            num += 5; // Modify the original value
-        }
+            number += 5;
+        }
 
     }
 }

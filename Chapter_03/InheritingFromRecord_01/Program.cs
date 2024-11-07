@@ -9,7 +9,8 @@ namespace InheritingFromRecord_01
 
     // Derived record 'Manager' inherits from 'Employee' and adds a new property 'Department'.
     // This demonstrates how records can be extended to include additional data.
-    record Manager(string Name, decimal Salary,string Department) : Employee(Name, Salary);
+    record Manager(string Name, string Department, decimal Salary) : Employee(Name, Salary);
+
     internal class Program
     {
         static void Main(string[] args)
@@ -17,10 +18,10 @@ namespace InheritingFromRecord_01
             Console.WriteLine("Program to demonstrate Inheriting from Record in C# with Visual Studio\n");
 
             // Creating an instance of 'Employee' record.
-            Employee employee = new("Sahil", 50000);
+            Employee employee = new Employee("Tom", 50000);
 
             // Creating an instance of 'Manager' record, which inherits from 'Employee'.
-            Manager manager = new("Sushant", 100000, "FINATO");
+            Manager manager = new Manager("Mike", "Sales", 100000);
 
             // Displaying details of employee and manager.
             Console.WriteLine(employee);

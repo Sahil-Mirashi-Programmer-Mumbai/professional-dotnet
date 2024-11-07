@@ -5,28 +5,29 @@ namespace InOutRefCombined_01
 {
     internal class Program
     {
-        internal static void Multiply(ref int refParam, in int inParam, out int outParam)
+        static void Multiply(ref int refParam, in int inParam, out int outParam)
         {
-            // Modfiy using 'ref'
-            refParam *= 2;
+            // Modify 'refParam' using 'ref'
+            refParam *= refParam;
 
-            // Cannot modify 'inParam' as it is read-only 
+            // Cannot modify 'inParam'
 
-            // Must assign value to 'outParam'
+            // Must assign a value to 'outParam' before the method ends
             outParam = refParam * inParam;
         }
+
 
         public static void Main(string[] args)
         {
             Console.WriteLine("Program to demonstrate in out ref combined in C# with Visual Studio\n");
 
+            int firstArgument = 10;
+            int secondArgument;
+
             // 'in' and 'ref' parameters must be initialized before being passed to the method
-            int first_argument = 10;
-            int second_argument = 20;
+            Multiply(ref firstArgument, in firstArgument, out secondArgument);
 
-            Multiply(ref first_argument, first_argument, out second_argument);
-
-            Console.WriteLine($"First Argument: {first_argument} Second Argument: {second_argument}"); // Output: First Argument: 20 Second Argument: 400
+            Console.WriteLine($"First Argument: {firstArgument} Second Argument: {secondArgument}"); // Output: First Argument: 100 Second Argument: 10000
         }
     }
 }
