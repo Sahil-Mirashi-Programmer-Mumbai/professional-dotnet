@@ -38,7 +38,6 @@ namespace InterfacesWithCollections_01
             {
                 Console.WriteLine($"Product Name: {product.Name} Product Price: {product.Price}");
             }
-
         }
     }
 }

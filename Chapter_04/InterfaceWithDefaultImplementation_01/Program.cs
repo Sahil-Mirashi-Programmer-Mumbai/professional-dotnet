@@ -24,7 +24,7 @@ namespace InterfaceWithDefaultImplementation_01
             Console.WriteLine("Program to demonstrate Interface With Default Implementation in C# with Visual Studio\n");
 
             ILogger logger = new ConsoleLogger();
-            logger.Log("System initialized");
+            logger.Log("System initialized"); // Output: Log: System initialized
         }
     }
 }

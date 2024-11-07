@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\bin\Debug\net8.0\PropertyDependencyInjection_01.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\bin\Debug\net8.0\PropertyDependencyInjection_01.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\bin\Debug\net8.0\PropertyDependencyInjection_01.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\bin\Debug\net8.0\PropertyDependencyInjection_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\bin\Debug\net8.0\PropertyDependencyInjection_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\PropertyDependencyInjection_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\PropertyDependencyInjection_01.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\PropertyDependencyInjection_01.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\PropertyDependencyInjection_01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\PropertyDependencyInjection_01.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\PropertyDependencyInjection_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\refint\PropertyDependencyInjection_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\PropertyDependencyInjection_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\PropertyDependencyInjection_01.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\PropertyDependencyInjection_01\obj\Debug\net8.0\ref\PropertyDependencyInjection_01.dll

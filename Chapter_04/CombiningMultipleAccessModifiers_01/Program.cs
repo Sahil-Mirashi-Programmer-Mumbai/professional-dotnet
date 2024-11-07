@@ -36,8 +36,8 @@ namespace CombiningMultipleAccessModifiers_01
         {
             Console.WriteLine("Program to demonstrate Combining Multiple Access Modifiers in C# with Visual Studio\n");
 
-            Report book = new Report("Daily Report"); // Output: Document Title: Daily Report
-            book.DisplayReportTitle();
+            Report book = new Report("Daily Report");
+            book.DisplayReportTitle(); // Output: Document Title: Daily Report
         }
     }
 }

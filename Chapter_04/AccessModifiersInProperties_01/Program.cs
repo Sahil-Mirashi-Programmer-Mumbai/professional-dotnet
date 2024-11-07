@@ -21,9 +21,9 @@ namespace AccessModifiersInProperties_01
             }
         }
 
-        public Person(string personName)
+        public Person(string name)
         {
-            Name = personName;
+            Name = name; // Initializing through constructor
         }
     }
 

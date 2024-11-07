@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\bin\Debug\net8.0\BasicConstructorDependencyInjection_02.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\bin\Debug\net8.0\BasicConstructorDependencyInjection_02.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\bin\Debug\net8.0\BasicConstructorDependencyInjection_02.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\bin\Debug\net8.0\BasicConstructorDependencyInjection_02.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\bin\Debug\net8.0\BasicConstructorDependencyInjection_02.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\BasicConstructorDependencyInjection_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\BasicConstructorDependencyInjection_02.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\BasicConstructorDependencyInjection_02.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\BasicConstructorDependencyInjection_02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\BasicConstructorDependencyInjection_02.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\BasicConstructorDependencyInjection_02.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\refint\BasicConstructorDependencyInjection_02.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\BasicConstructorDependencyInjection_02.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\BasicConstructorDependencyInjection_02.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_04\BasicConstructorDependencyInjection_02\obj\Debug\net8.0\ref\BasicConstructorDependencyInjection_02.dll

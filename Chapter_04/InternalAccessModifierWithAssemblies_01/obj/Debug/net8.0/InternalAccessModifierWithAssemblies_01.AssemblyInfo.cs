@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InternalAccessModifierWithAssemblies_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b0a4e7cfe9c4f39f9601bf92c59e384400c699")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b838ebe59a645010f6d67450e81c84746fbd2ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("InternalAccessModifierWithAssemblies_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InternalAccessModifierWithAssemblies_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
