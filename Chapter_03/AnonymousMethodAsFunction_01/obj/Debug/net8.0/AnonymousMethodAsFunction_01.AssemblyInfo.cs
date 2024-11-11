@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnonymousMethodAsFunction_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b0a4e7cfe9c4f39f9601bf92c59e384400c699")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f57801228c9215445f72cbffe3957d5d2dfcd4bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnonymousMethodAsFunction_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnonymousMethodAsFunction_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

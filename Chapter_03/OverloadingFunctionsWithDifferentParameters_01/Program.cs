@@ -1,6 +1,11 @@
 ﻿// Program to demonstrate Overloading Functions with Different Parameters in C# with Visual Studio
 // Programmer: Sahil Mirashi
 
+/*
+    Method Overloading
+    Defining multiple methods with the same name but with different parameter types or numbers of parameters.
+*/
+
 namespace OverloadingFunctionsWithDifferentParameters_01
 {
     internal class Program

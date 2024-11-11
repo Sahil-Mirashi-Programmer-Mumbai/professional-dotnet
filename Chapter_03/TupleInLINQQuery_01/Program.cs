@@ -15,7 +15,7 @@ namespace TupleInLINQQuery_01
             // Using LINQ query to select tuples with square values
             var results = numbers.Select(number => (Number: number, Square: number * number));
 
-            foreach(var result in results)
+            foreach (var result in results)
             {
                 Console.WriteLine($"Number: {result.Number} Square: {result.Square}");
             }

@@ -11,7 +11,7 @@ namespace AnonymousMethodAsFunction_01
 
             // Declares a delegate 'square' that takes one integer and returns an integer.
             // 'Func<int, int>' specifies a function delegate with one 'int' input and an 'int' return type.
-            Func<int, int> square = delegate(int number) { return number * number; };
+            Func<int, int> square = delegate (int number) { return number * number; };
 
             Console.WriteLine($"Square: {square(5)}"); // Output: Square: 25
         }

@@ -10,7 +10,7 @@ namespace GenericFunctionWithConstraints_01
             Console.WriteLine("Program to demonstrate Generic Function with Constraints in C# with Visual Studio\n");
 
             // DisplayArray<int>(new int[] { 1, 2, 3 }); // Compile time error since int is a value type
-            DisplayArray<string>(new string[] { "Tom", "Mike", "Harry"});
+            DisplayArray<string>(new string[] { "Tom", "Mike", "Harry"}); // String is a reference type
         }
         static void DisplayArray<T>(T[] array) where T : class
         {

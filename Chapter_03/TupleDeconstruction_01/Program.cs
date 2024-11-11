@@ -1,9 +1,10 @@
 ﻿// Program to demonstrate Tuple Deconstruction in C# with Visual Studio
 // Programmer: Sahil Mirashi
 
-using System.Diagnostics;
-using System.Reflection;
-using System.Xml.Linq;
+/*
+    Tuple Deconstruction
+    Extract individual elements of a tuple into separate variables
+*/
 
 namespace TupleDeconstruction_01
 {

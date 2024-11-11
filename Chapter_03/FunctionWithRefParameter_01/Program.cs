@@ -1,4 +1,4 @@
-﻿// Program to demonstrate Function with Ref Parameter in C# with Visual Studio
+﻿// Program to demonstrate function with ref parameter in C# with Visual Studio
 // Programmer: Sahil Mirashi
 
 namespace FunctionWithRefParameter_01
@@ -7,7 +7,7 @@ namespace FunctionWithRefParameter_01
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Program to demonstrate Function with Ref Parameter in C# with Visual Studio\n");
+            Console.WriteLine("Program to demonstrate function with ref parameter in C# with Visual Studio\n");
 
             int number = 10;
 

@@ -1,4 +1,4 @@
-﻿// Program to demonstrate Lambda Expression as Function in C# with Visual Studio
+﻿// Program to demonstrate lambda expression as function in C# with Visual Studio
 // Programmer: Sahil Mirashi
 
 namespace LambdaExpressionAsFunction_01
@@ -7,7 +7,7 @@ namespace LambdaExpressionAsFunction_01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program to demonstrate Lambda Expression as Function in C# with Visual Studio\n");
+            Console.WriteLine("Program to demonstrate lambda expression as function in C# with Visual Studio\n");
 
             // Declares a delegate `multiply` that takes two integers and returns an integer.
             // `Func<int, int, int>` specifies a function delegate with two `int` inputs and an `int` return type.
