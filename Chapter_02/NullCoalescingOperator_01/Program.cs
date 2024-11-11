@@ -16,7 +16,6 @@ namespace NullCoalescingOperator_01
             string result = name ?? "Nick";
 
             Console.WriteLine($"Result: {result}"); // Output: Nick
-
         }
     }
 }

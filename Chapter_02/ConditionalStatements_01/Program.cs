@@ -16,7 +16,7 @@ namespace ConditionalStatements_01
             // If true, the character is returned; otherwise, a default character is returned.
             char result = myNullableChar.HasValue ? myNullableChar.Value : 'Z';
 
-            Console.WriteLine($"Result: {result}");
+            Console.WriteLine($"Result: {result}"); // Output: Result: A
 
             // Setting the nullable character to null.
             myNullableChar = null;
@@ -24,8 +24,7 @@ namespace ConditionalStatements_01
             // Now, the conditional will use the default value 'Z' because 'myNullableChar' is null.
             result = myNullableChar.HasValue ? myNullableChar.Value : 'Z';
 
-            Console.WriteLine($"Result: {result}"); // Output: Z
-
+            Console.WriteLine($"Result: {result}"); // Output: Result: Z
         }
     }
 }

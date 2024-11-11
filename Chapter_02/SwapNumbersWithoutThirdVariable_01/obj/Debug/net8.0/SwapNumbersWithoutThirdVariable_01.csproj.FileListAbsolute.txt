@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\bin\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\bin\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\bin\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\bin\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\bin\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\refint\SwapNumbersWithoutThirdVariable_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\SwapNumbersWithoutThirdVariable_01.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_02\SwapNumbersWithoutThirdVariable_01\obj\Debug\net8.0\ref\SwapNumbersWithoutThirdVariable_01.dll
