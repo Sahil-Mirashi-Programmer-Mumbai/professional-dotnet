@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasicVectorAddition_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92f9731253e0fc48f7284f0f63861a681891ee29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f821862b00450da03145879f6225b40d7db9a512")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasicVectorAddition_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasicVectorAddition_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
