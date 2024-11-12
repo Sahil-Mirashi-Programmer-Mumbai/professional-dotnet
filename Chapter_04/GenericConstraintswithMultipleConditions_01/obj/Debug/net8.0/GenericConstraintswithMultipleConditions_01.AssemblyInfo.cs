@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericConstraintswithMultipleConditions_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b838ebe59a645010f6d67450e81c84746fbd2ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ed15db309927fed0e7be5b6bb8d55ad4fae112b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericConstraintswithMultipleConditions_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericConstraintswithMultipleConditions_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
