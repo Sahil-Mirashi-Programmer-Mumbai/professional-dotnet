@@ -2,12 +2,11 @@
 // Programmer: Sahil Mirashi
 
 /*
-    Lambda expressions are one of the core features of C# that bring the power of functional programming into a strongly-typed, object-oriented language.
-    They allow you to create concise and inline functions that can be used wherever delegate types are expected.
-
-    Lambda Expression: An anonymous function used to create delegates or expression tree types. Syntax: (input-parameters) => expression
-    Single Parameter: Parentheses are optional when there is one parameter (n => n * n).
-    Simplified Syntax: No return keyword or curly braces are needed for single-line expressions.
+    Lambda Expression
+    A lambda expression is an inline, anonymous function that can contain expressions or statements.
+    
+    Syntax
+    (parameters) => expression
 */
 
 namespace BasicLambdaExpression_01

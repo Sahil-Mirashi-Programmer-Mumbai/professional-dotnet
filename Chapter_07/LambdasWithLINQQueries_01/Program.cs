@@ -20,7 +20,7 @@ namespace LambdasWithLINQQueries_01
 
             // Using LINQ with a lambda expression to filter and project elements
             // 'Where' filters elements based on a condition; 'Select' projects each element
-            var results = numbers.Where(number => number % 2 == 0).Select(number => number * 10);
+            IEnumerable<int> results = numbers.Where(number => number % 2 == 0).Select(number => number * 10);
 
             // Displaying the results
             Console.WriteLine("Transformed Even Numbers:");

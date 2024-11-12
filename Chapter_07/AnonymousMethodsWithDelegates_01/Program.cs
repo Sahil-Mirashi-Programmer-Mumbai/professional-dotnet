@@ -2,8 +2,8 @@
 // Programmer: Sahil Mirashi
 
 /*
-    Anonymous Methods: Defined using the delegate keyword without a separate named method.
-    Encapsulation: Useful for defining inline methods, often with minimal logic.
+    Anonymous Methods
+    Anonymous method is a method without a name, declared using the delegate keyword.
 */
 
 namespace AnonymousMethodsWithDelegates_01

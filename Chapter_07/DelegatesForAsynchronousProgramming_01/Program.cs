@@ -28,7 +28,7 @@ namespace DelegatesForAsynchronousProgramming_01
 
             // Initiating the task asynchronously
             LongRunningTask longRunningTask = new LongRunningTask(TaskMethod);
-            IAsyncResult result = longRunningTask.BeginInvoke(null, null);
+            IAsyncResult result = longRunningTask.BeginInvoke(null, null); // Error
 
             Console.WriteLine("Main Thread is Free to Continue");
 
