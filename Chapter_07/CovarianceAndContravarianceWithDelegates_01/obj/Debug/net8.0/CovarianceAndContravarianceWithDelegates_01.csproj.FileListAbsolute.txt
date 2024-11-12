@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\bin\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\bin\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\bin\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\bin\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\bin\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\refint\CovarianceAndContravarianceWithDelegates_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\CovarianceAndContravarianceWithDelegates_01.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\CovarianceAndContravarianceWithDelegates_01\obj\Debug\net8.0\ref\CovarianceAndContravarianceWithDelegates_01.dll

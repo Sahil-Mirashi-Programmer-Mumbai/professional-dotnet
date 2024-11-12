@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\bin\Debug\net8.0\BasicLambdaExpression_01.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\bin\Debug\net8.0\BasicLambdaExpression_01.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\bin\Debug\net8.0\BasicLambdaExpression_01.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\bin\Debug\net8.0\BasicLambdaExpression_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\bin\Debug\net8.0\BasicLambdaExpression_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\BasicLambdaExpression_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\BasicLambdaExpression_01.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\BasicLambdaExpression_01.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\BasicLambdaExpression_01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\BasicLambdaExpression_01.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\BasicLambdaExpression_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\refint\BasicLambdaExpression_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\BasicLambdaExpression_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\BasicLambdaExpression_01.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_07\BasicLambdaExpression_01\obj\Debug\net8.0\ref\BasicLambdaExpression_01.dll
