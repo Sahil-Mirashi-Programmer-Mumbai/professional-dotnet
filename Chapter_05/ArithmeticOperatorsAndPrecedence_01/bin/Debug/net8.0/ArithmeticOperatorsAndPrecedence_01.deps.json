@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArithmeticOperatorsAndPrecedence_01/1.0.0": {
+        "runtime": {
+          "ArithmeticOperatorsAndPrecedence_01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArithmeticOperatorsAndPrecedence_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
