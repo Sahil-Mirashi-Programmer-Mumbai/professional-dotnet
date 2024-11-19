@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\bin\Debug\net8.0\12_InsertAtBeginningLinkedList.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\bin\Debug\net8.0\12_InsertAtBeginningLinkedList.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\bin\Debug\net8.0\12_InsertAtBeginningLinkedList.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\bin\Debug\net8.0\12_InsertAtBeginningLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\bin\Debug\net8.0\12_InsertAtBeginningLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\12_InsertAtBeginningLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\12_InsertAtBeginningLinkedList.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\12_InsertAtBeginningLinkedList.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\12_InsertAtBeginningLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\12_InsertAtBeginningLinkedList.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\12_InsertAtBeginningLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\refint\12_InsertAtBeginningLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\12_InsertAtBeginningLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\12_InsertAtBeginningLinkedList.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\12_InsertAtBeginningLinkedList\obj\Debug\net8.0\ref\12_InsertAtBeginningLinkedList.dll

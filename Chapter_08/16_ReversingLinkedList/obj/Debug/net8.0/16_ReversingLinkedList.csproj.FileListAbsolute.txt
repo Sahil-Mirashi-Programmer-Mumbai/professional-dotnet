@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\bin\Debug\net8.0\16_ReversingLinkedList.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\bin\Debug\net8.0\16_ReversingLinkedList.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\bin\Debug\net8.0\16_ReversingLinkedList.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\bin\Debug\net8.0\16_ReversingLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\bin\Debug\net8.0\16_ReversingLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\16_ReversingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\16_ReversingLinkedList.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\16_ReversingLinkedList.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\16_ReversingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\16_ReversingLinkedList.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\16_ReversingLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\refint\16_ReversingLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\16_ReversingLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\16_ReversingLinkedList.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\16_ReversingLinkedList\obj\Debug\net8.0\ref\16_ReversingLinkedList.dll

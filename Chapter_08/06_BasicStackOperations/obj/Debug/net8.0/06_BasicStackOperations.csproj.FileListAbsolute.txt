@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\bin\Debug\net8.0\06_BasicStackOperations.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\bin\Debug\net8.0\06_BasicStackOperations.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\bin\Debug\net8.0\06_BasicStackOperations.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\bin\Debug\net8.0\06_BasicStackOperations.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\bin\Debug\net8.0\06_BasicStackOperations.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\06_BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\06_BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\06_BasicStackOperations.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\06_BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\06_BasicStackOperations.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\06_BasicStackOperations.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\refint\06_BasicStackOperations.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\06_BasicStackOperations.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\06_BasicStackOperations.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\06_BasicStackOperations\obj\Debug\net8.0\ref\06_BasicStackOperations.dll

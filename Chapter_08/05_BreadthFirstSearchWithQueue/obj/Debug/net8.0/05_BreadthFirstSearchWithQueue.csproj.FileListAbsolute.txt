@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\bin\Debug\net8.0\05_BreadthFirstSearchWithQueue.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\bin\Debug\net8.0\05_BreadthFirstSearchWithQueue.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\bin\Debug\net8.0\05_BreadthFirstSearchWithQueue.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\bin\Debug\net8.0\05_BreadthFirstSearchWithQueue.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\bin\Debug\net8.0\05_BreadthFirstSearchWithQueue.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\05_BreadthFirstSearchWithQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\05_BreadthFirstSearchWithQueue.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\05_BreadthFirstSearchWithQueue.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\05_BreadthFirstSearchWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\05_BreadthFirstSearchWithQueue.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\05_BreadthFirstSearchWithQueue.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\refint\05_BreadthFirstSearchWithQueue.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\05_BreadthFirstSearchWithQueue.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\05_BreadthFirstSearchWithQueue.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\05_BreadthFirstSearchWithQueue\obj\Debug\net8.0\ref\05_BreadthFirstSearchWithQueue.dll

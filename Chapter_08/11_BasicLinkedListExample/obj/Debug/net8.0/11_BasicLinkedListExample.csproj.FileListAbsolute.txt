@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\bin\Debug\net8.0\11_BasicLinkedListExample.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\bin\Debug\net8.0\11_BasicLinkedListExample.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\bin\Debug\net8.0\11_BasicLinkedListExample.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\bin\Debug\net8.0\11_BasicLinkedListExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\bin\Debug\net8.0\11_BasicLinkedListExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\11_BasicLinkedListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\11_BasicLinkedListExample.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\11_BasicLinkedListExample.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\11_BasicLinkedListExample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\11_BasicLinkedListExample.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\11_BasicLinkedListExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\refint\11_BasicLinkedListExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\11_BasicLinkedListExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\11_BasicLinkedListExample.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\11_BasicLinkedListExample\obj\Debug\net8.0\ref\11_BasicLinkedListExample.dll

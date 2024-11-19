@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\bin\Debug\net8.0\02_QueueWithCustomObjects.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\bin\Debug\net8.0\02_QueueWithCustomObjects.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\bin\Debug\net8.0\02_QueueWithCustomObjects.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\bin\Debug\net8.0\02_QueueWithCustomObjects.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\bin\Debug\net8.0\02_QueueWithCustomObjects.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\02_QueueWithCustomObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\02_QueueWithCustomObjects.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\02_QueueWithCustomObjects.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\02_QueueWithCustomObjects.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\02_QueueWithCustomObjects.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\02_QueueWithCustomObjects.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\refint\02_QueueWithCustomObjects.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\02_QueueWithCustomObjects.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\02_QueueWithCustomObjects.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\02_QueueWithCustomObjects\obj\Debug\net8.0\ref\02_QueueWithCustomObjects.dll

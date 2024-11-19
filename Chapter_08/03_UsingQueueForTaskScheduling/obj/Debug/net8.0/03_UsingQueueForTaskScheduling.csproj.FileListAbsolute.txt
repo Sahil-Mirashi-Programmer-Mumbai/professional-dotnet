@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\bin\Debug\net8.0\03_UsingQueueForTaskScheduling.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\bin\Debug\net8.0\03_UsingQueueForTaskScheduling.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\bin\Debug\net8.0\03_UsingQueueForTaskScheduling.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\bin\Debug\net8.0\03_UsingQueueForTaskScheduling.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\bin\Debug\net8.0\03_UsingQueueForTaskScheduling.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\03_UsingQueueForTaskScheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\03_UsingQueueForTaskScheduling.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\03_UsingQueueForTaskScheduling.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\03_UsingQueueForTaskScheduling.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\03_UsingQueueForTaskScheduling.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\03_UsingQueueForTaskScheduling.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\refint\03_UsingQueueForTaskScheduling.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\03_UsingQueueForTaskScheduling.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\03_UsingQueueForTaskScheduling.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\03_UsingQueueForTaskScheduling\obj\Debug\net8.0\ref\03_UsingQueueForTaskScheduling.dll

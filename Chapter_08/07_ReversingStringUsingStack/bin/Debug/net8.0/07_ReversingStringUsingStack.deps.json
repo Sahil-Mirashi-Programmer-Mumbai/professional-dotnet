@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "07_ReversingStringUsingStack/1.0.0": {
+        "runtime": {
+          "07_ReversingStringUsingStack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07_ReversingStringUsingStack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

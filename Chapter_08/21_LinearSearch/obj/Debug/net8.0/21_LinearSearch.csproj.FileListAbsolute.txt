@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\bin\Debug\net8.0\21_LinearSearch.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\bin\Debug\net8.0\21_LinearSearch.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\bin\Debug\net8.0\21_LinearSearch.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\bin\Debug\net8.0\21_LinearSearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\bin\Debug\net8.0\21_LinearSearch.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\21_LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\21_LinearSearch.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\21_LinearSearch.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\21_LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\21_LinearSearch.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\21_LinearSearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\refint\21_LinearSearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\21_LinearSearch.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\21_LinearSearch.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\21_LinearSearch\obj\Debug\net8.0\ref\21_LinearSearch.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\bin\Debug\net8.0\14_DoublyLinkedListExample.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\bin\Debug\net8.0\14_DoublyLinkedListExample.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\bin\Debug\net8.0\14_DoublyLinkedListExample.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\bin\Debug\net8.0\14_DoublyLinkedListExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\bin\Debug\net8.0\14_DoublyLinkedListExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\14_DoublyLinkedListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\14_DoublyLinkedListExample.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\14_DoublyLinkedListExample.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\14_DoublyLinkedListExample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\14_DoublyLinkedListExample.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\14_DoublyLinkedListExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\refint\14_DoublyLinkedListExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\14_DoublyLinkedListExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\14_DoublyLinkedListExample.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\14_DoublyLinkedListExample\obj\Debug\net8.0\ref\14_DoublyLinkedListExample.dll

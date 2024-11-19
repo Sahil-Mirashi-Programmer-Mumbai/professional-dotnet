@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\bin\Debug\net8.0\25_BubbleSort.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\bin\Debug\net8.0\25_BubbleSort.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\bin\Debug\net8.0\25_BubbleSort.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\bin\Debug\net8.0\25_BubbleSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\bin\Debug\net8.0\25_BubbleSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\25_BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\25_BubbleSort.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\25_BubbleSort.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\25_BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\25_BubbleSort.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\25_BubbleSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\refint\25_BubbleSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\25_BubbleSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\25_BubbleSort.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\25_BubbleSort\obj\Debug\net8.0\ref\25_BubbleSort.dll

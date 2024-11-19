@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\bin\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\bin\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\bin\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\bin\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\bin\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\refint\04_ImplementingCircularBufferUsingQueue.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\04_ImplementingCircularBufferUsingQueue.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\04_ImplementingCircularBufferUsingQueue\obj\Debug\net8.0\ref\04_ImplementingCircularBufferUsingQueue.dll

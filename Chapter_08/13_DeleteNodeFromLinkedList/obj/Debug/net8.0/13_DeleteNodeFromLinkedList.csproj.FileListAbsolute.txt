@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\bin\Debug\net8.0\13_DeleteNodeFromLinkedList.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\bin\Debug\net8.0\13_DeleteNodeFromLinkedList.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\bin\Debug\net8.0\13_DeleteNodeFromLinkedList.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\bin\Debug\net8.0\13_DeleteNodeFromLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\bin\Debug\net8.0\13_DeleteNodeFromLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\13_DeleteNodeFromLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\13_DeleteNodeFromLinkedList.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\13_DeleteNodeFromLinkedList.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\13_DeleteNodeFromLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\13_DeleteNodeFromLinkedList.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\13_DeleteNodeFromLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\refint\13_DeleteNodeFromLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\13_DeleteNodeFromLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\13_DeleteNodeFromLinkedList.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\13_DeleteNodeFromLinkedList\obj\Debug\net8.0\ref\13_DeleteNodeFromLinkedList.dll

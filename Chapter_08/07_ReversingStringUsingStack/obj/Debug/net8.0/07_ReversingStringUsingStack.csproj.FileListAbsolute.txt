@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\bin\Debug\net8.0\07_ReversingStringUsingStack.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\bin\Debug\net8.0\07_ReversingStringUsingStack.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\bin\Debug\net8.0\07_ReversingStringUsingStack.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\bin\Debug\net8.0\07_ReversingStringUsingStack.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\bin\Debug\net8.0\07_ReversingStringUsingStack.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\07_ReversingStringUsingStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\07_ReversingStringUsingStack.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\07_ReversingStringUsingStack.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\07_ReversingStringUsingStack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\07_ReversingStringUsingStack.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\07_ReversingStringUsingStack.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\refint\07_ReversingStringUsingStack.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\07_ReversingStringUsingStack.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\07_ReversingStringUsingStack.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\07_ReversingStringUsingStack\obj\Debug\net8.0\ref\07_ReversingStringUsingStack.dll

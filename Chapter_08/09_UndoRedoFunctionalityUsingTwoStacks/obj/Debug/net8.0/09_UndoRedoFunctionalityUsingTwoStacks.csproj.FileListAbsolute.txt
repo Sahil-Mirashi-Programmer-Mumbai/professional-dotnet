@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\bin\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\bin\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\bin\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\bin\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\bin\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\refint\09_UndoRedoFunctionalityUsingTwoStacks.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\09_UndoRedoFunctionalityUsingTwoStacks.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\09_UndoRedoFunctionalityUsingTwoStacks\obj\Debug\net8.0\ref\09_UndoRedoFunctionalityUsingTwoStacks.dll

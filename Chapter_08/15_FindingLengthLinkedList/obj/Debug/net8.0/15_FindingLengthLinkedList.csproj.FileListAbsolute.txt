@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\bin\Debug\net8.0\15_FindingLengthLinkedList.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\bin\Debug\net8.0\15_FindingLengthLinkedList.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\bin\Debug\net8.0\15_FindingLengthLinkedList.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\bin\Debug\net8.0\15_FindingLengthLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\bin\Debug\net8.0\15_FindingLengthLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\15_FindingLengthLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\15_FindingLengthLinkedList.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\15_FindingLengthLinkedList.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\15_FindingLengthLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\15_FindingLengthLinkedList.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\15_FindingLengthLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\refint\15_FindingLengthLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\15_FindingLengthLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\15_FindingLengthLinkedList.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\15_FindingLengthLinkedList\obj\Debug\net8.0\ref\15_FindingLengthLinkedList.dll

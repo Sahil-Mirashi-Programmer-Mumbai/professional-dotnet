@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\bin\Debug\net8.0\20_StackUsingLinkedList.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\bin\Debug\net8.0\20_StackUsingLinkedList.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\bin\Debug\net8.0\20_StackUsingLinkedList.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\bin\Debug\net8.0\20_StackUsingLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\bin\Debug\net8.0\20_StackUsingLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\20_StackUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\20_StackUsingLinkedList.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\20_StackUsingLinkedList.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\20_StackUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\20_StackUsingLinkedList.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\20_StackUsingLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\refint\20_StackUsingLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\20_StackUsingLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\20_StackUsingLinkedList.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\20_StackUsingLinkedList\obj\Debug\net8.0\ref\20_StackUsingLinkedList.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\bin\Debug\net8.0\08_BalancingParenthesesUsingStack.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\bin\Debug\net8.0\08_BalancingParenthesesUsingStack.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\bin\Debug\net8.0\08_BalancingParenthesesUsingStack.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\bin\Debug\net8.0\08_BalancingParenthesesUsingStack.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\bin\Debug\net8.0\08_BalancingParenthesesUsingStack.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\08_BalancingParenthesesUsingStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\08_BalancingParenthesesUsingStack.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\08_BalancingParenthesesUsingStack.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\08_BalancingParenthesesUsingStack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\08_BalancingParenthesesUsingStack.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\08_BalancingParenthesesUsingStack.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\refint\08_BalancingParenthesesUsingStack.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\08_BalancingParenthesesUsingStack.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\08_BalancingParenthesesUsingStack.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\08_BalancingParenthesesUsingStack\obj\Debug\net8.0\ref\08_BalancingParenthesesUsingStack.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\01_BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\01_BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\01_BasicQueueOperations.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\01_BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\01_BasicQueueOperations.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\bin\Debug\net8.0\01_BasicQueueOperations.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\bin\Debug\net8.0\01_BasicQueueOperations.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\bin\Debug\net8.0\01_BasicQueueOperations.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\bin\Debug\net8.0\01_BasicQueueOperations.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\bin\Debug\net8.0\01_BasicQueueOperations.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\01_BasicQueueOperations.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\refint\01_BasicQueueOperations.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\01_BasicQueueOperations.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\01_BasicQueueOperations.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\01_BasicQueueOperations\obj\Debug\net8.0\ref\01_BasicQueueOperations.dll

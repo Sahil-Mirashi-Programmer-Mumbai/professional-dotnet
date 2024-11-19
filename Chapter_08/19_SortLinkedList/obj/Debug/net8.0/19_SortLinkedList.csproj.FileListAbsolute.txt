@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\bin\Debug\net8.0\19_SortLinkedList.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\bin\Debug\net8.0\19_SortLinkedList.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\bin\Debug\net8.0\19_SortLinkedList.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\bin\Debug\net8.0\19_SortLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\bin\Debug\net8.0\19_SortLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\19_SortLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\19_SortLinkedList.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\19_SortLinkedList.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\19_SortLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\19_SortLinkedList.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\19_SortLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\refint\19_SortLinkedList.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\19_SortLinkedList.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\19_SortLinkedList.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\19_SortLinkedList\obj\Debug\net8.0\ref\19_SortLinkedList.dll

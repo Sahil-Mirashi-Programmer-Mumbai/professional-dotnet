@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\bin\Debug\net8.0\27_InsertionSort.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\bin\Debug\net8.0\27_InsertionSort.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\bin\Debug\net8.0\27_InsertionSort.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\bin\Debug\net8.0\27_InsertionSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\bin\Debug\net8.0\27_InsertionSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\27_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\27_InsertionSort.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\27_InsertionSort.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\27_InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\27_InsertionSort.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\27_InsertionSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\refint\27_InsertionSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\27_InsertionSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\27_InsertionSort.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\27_InsertionSort\obj\Debug\net8.0\ref\27_InsertionSort.dll

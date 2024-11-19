@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\bin\Debug\net8.0\28_MergeSort.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\bin\Debug\net8.0\28_MergeSort.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\bin\Debug\net8.0\28_MergeSort.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\bin\Debug\net8.0\28_MergeSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\bin\Debug\net8.0\28_MergeSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\28_MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\28_MergeSort.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\28_MergeSort.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\28_MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\28_MergeSort.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\28_MergeSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\refint\28_MergeSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\28_MergeSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\28_MergeSort.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\28_MergeSort\obj\Debug\net8.0\ref\28_MergeSort.dll

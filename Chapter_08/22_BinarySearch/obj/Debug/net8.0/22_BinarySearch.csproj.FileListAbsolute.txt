@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\bin\Debug\net8.0\22_BinarySearch.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\bin\Debug\net8.0\22_BinarySearch.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\bin\Debug\net8.0\22_BinarySearch.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\bin\Debug\net8.0\22_BinarySearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\bin\Debug\net8.0\22_BinarySearch.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\22_BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\22_BinarySearch.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\22_BinarySearch.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\22_BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\22_BinarySearch.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\22_BinarySearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\refint\22_BinarySearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\22_BinarySearch.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\22_BinarySearch.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\22_BinarySearch\obj\Debug\net8.0\ref\22_BinarySearch.dll
