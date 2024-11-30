@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "33_BasicDictionaryExample/1.0.0": {
+        "runtime": {
+          "33_BasicDictionaryExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "33_BasicDictionaryExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

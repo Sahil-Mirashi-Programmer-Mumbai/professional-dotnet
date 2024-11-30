@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\bin\Debug\net8.0\46_HashSetBasics.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\bin\Debug\net8.0\46_HashSetBasics.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\bin\Debug\net8.0\46_HashSetBasics.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\bin\Debug\net8.0\46_HashSetBasics.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\bin\Debug\net8.0\46_HashSetBasics.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\46_HashSetBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\46_HashSetBasics.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\46_HashSetBasics.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\46_HashSetBasics.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\46_HashSetBasics.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\46_HashSetBasics.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\refint\46_HashSetBasics.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\46_HashSetBasics.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\46_HashSetBasics.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\46_HashSetBasics\obj\Debug\net8.0\ref\46_HashSetBasics.dll

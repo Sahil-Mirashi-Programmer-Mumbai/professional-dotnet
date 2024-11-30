@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\bin\Debug\net8.0\34_UpdateAndRemoveDictionary.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\bin\Debug\net8.0\34_UpdateAndRemoveDictionary.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\bin\Debug\net8.0\34_UpdateAndRemoveDictionary.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\bin\Debug\net8.0\34_UpdateAndRemoveDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\bin\Debug\net8.0\34_UpdateAndRemoveDictionary.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\34_UpdateAndRemoveDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\34_UpdateAndRemoveDictionary.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\34_UpdateAndRemoveDictionary.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\34_UpdateAndRemoveDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\34_UpdateAndRemoveDictionary.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\34_UpdateAndRemoveDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\refint\34_UpdateAndRemoveDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\34_UpdateAndRemoveDictionary.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\34_UpdateAndRemoveDictionary.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\34_UpdateAndRemoveDictionary\obj\Debug\net8.0\ref\34_UpdateAndRemoveDictionary.dll

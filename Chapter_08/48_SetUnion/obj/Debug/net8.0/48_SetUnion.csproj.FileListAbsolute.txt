@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\bin\Debug\net8.0\48_SetUnion.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\bin\Debug\net8.0\48_SetUnion.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\bin\Debug\net8.0\48_SetUnion.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\bin\Debug\net8.0\48_SetUnion.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\bin\Debug\net8.0\48_SetUnion.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\48_SetUnion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\48_SetUnion.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\48_SetUnion.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\48_SetUnion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\48_SetUnion.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\48_SetUnion.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\refint\48_SetUnion.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\48_SetUnion.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\48_SetUnion.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\48_SetUnion\obj\Debug\net8.0\ref\48_SetUnion.dll

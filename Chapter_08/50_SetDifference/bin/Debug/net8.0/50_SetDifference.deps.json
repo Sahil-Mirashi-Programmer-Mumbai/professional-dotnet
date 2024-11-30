@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "50_SetDifference/1.0.0": {
+        "runtime": {
+          "50_SetDifference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "50_SetDifference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

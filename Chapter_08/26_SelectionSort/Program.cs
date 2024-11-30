@@ -9,7 +9,7 @@
  - Applications: Useful when memory writes are a concern.
  */
 
-namespace _26_SelectionSort
+namespace SelectionSort
 {
     class SelectionSortExample
     {

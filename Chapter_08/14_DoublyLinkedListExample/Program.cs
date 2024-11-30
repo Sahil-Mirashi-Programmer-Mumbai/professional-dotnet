@@ -80,7 +80,7 @@ namespace _14_DoublyLinkedListExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program to demonstrate Doubly Linked List xxample in C# with Visual Studio\n");
+            Console.WriteLine("Program to demonstrate Doubly Linked List example in C# with Visual Studio\n");
 
             DoublyLinkedList doublyLinkedList = new DoublyLinkedList();
             doublyLinkedList.AddNode(10);

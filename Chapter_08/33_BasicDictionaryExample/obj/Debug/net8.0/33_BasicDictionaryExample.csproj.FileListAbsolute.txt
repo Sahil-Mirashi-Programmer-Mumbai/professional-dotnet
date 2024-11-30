@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\bin\Debug\net8.0\33_BasicDictionaryExample.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\bin\Debug\net8.0\33_BasicDictionaryExample.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\bin\Debug\net8.0\33_BasicDictionaryExample.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\bin\Debug\net8.0\33_BasicDictionaryExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\bin\Debug\net8.0\33_BasicDictionaryExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\33_BasicDictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\33_BasicDictionaryExample.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\33_BasicDictionaryExample.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\33_BasicDictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\33_BasicDictionaryExample.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\33_BasicDictionaryExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\refint\33_BasicDictionaryExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\33_BasicDictionaryExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\33_BasicDictionaryExample.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\33_BasicDictionaryExample\obj\Debug\net8.0\ref\33_BasicDictionaryExample.dll

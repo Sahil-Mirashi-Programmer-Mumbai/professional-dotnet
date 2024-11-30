@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\bin\Debug\net8.0\37_DictionaryWithLINQ.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\bin\Debug\net8.0\37_DictionaryWithLINQ.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\bin\Debug\net8.0\37_DictionaryWithLINQ.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\bin\Debug\net8.0\37_DictionaryWithLINQ.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\bin\Debug\net8.0\37_DictionaryWithLINQ.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\37_DictionaryWithLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\37_DictionaryWithLINQ.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\37_DictionaryWithLINQ.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\37_DictionaryWithLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\37_DictionaryWithLINQ.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\37_DictionaryWithLINQ.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\refint\37_DictionaryWithLINQ.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\37_DictionaryWithLINQ.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\37_DictionaryWithLINQ.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\37_DictionaryWithLINQ\obj\Debug\net8.0\ref\37_DictionaryWithLINQ.dll

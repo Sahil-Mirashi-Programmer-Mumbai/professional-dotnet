@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\bin\Debug\net8.0\53_DetectDuplicates.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\bin\Debug\net8.0\53_DetectDuplicates.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\bin\Debug\net8.0\53_DetectDuplicates.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\bin\Debug\net8.0\53_DetectDuplicates.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\bin\Debug\net8.0\53_DetectDuplicates.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\53_DetectDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\53_DetectDuplicates.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\53_DetectDuplicates.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\53_DetectDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\53_DetectDuplicates.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\53_DetectDuplicates.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\refint\53_DetectDuplicates.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\53_DetectDuplicates.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\53_DetectDuplicates.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\53_DetectDuplicates\obj\Debug\net8.0\ref\53_DetectDuplicates.dll

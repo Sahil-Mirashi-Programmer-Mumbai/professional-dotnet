@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\bin\Debug\net8.0\45_TrieWithDictionary.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\bin\Debug\net8.0\45_TrieWithDictionary.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\bin\Debug\net8.0\45_TrieWithDictionary.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\bin\Debug\net8.0\45_TrieWithDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\bin\Debug\net8.0\45_TrieWithDictionary.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\45_TrieWithDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\45_TrieWithDictionary.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\45_TrieWithDictionary.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\45_TrieWithDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\45_TrieWithDictionary.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\45_TrieWithDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\refint\45_TrieWithDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\45_TrieWithDictionary.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\45_TrieWithDictionary.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\45_TrieWithDictionary\obj\Debug\net8.0\ref\45_TrieWithDictionary.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\bin\Debug\net8.0\30_HeapSort.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\bin\Debug\net8.0\30_HeapSort.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\bin\Debug\net8.0\30_HeapSort.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\bin\Debug\net8.0\30_HeapSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\bin\Debug\net8.0\30_HeapSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\30_HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\30_HeapSort.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\30_HeapSort.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\30_HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\30_HeapSort.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\30_HeapSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\refint\30_HeapSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\30_HeapSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\30_HeapSort.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\30_HeapSort\obj\Debug\net8.0\ref\30_HeapSort.dll

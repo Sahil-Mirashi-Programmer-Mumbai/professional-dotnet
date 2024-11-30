@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\bin\Debug\net8.0\40_CacheExample.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\bin\Debug\net8.0\40_CacheExample.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\bin\Debug\net8.0\40_CacheExample.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\bin\Debug\net8.0\40_CacheExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\bin\Debug\net8.0\40_CacheExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\40_CacheExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\40_CacheExample.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\40_CacheExample.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\40_CacheExample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\40_CacheExample.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\40_CacheExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\refint\40_CacheExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\40_CacheExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\40_CacheExample.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\40_CacheExample\obj\Debug\net8.0\ref\40_CacheExample.dll

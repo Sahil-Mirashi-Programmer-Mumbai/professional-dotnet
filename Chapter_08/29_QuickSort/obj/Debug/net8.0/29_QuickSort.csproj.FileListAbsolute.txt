@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\bin\Debug\net8.0\29_QuickSort.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\bin\Debug\net8.0\29_QuickSort.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\bin\Debug\net8.0\29_QuickSort.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\bin\Debug\net8.0\29_QuickSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\bin\Debug\net8.0\29_QuickSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\29_QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\29_QuickSort.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\29_QuickSort.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\29_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\29_QuickSort.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\29_QuickSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\refint\29_QuickSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\29_QuickSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\29_QuickSort.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\29_QuickSort\obj\Debug\net8.0\ref\29_QuickSort.dll

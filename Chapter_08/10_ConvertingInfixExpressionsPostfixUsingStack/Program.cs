@@ -14,10 +14,17 @@ namespace _10_ConvertingInfixExpressionsPostfixUsingStack
         {
             Console.WriteLine("Program to demonstrate Converting Infix Expressions to Postfix using Stack in C# with Visual Studio\n");
 
-            string infix = "((A + B) - C * (D / E)) + F"; // The infix expression to be converted.
-            string postfix = ConvertInfixToPostfix(infix); // Convert the infix expression to postfix notation.
-            Console.WriteLine($"Infix: {infix}"); // Display the original infix expression.
-            Console.WriteLine($"Postfix: {postfix}"); // Display the converted postfix expression.
+            // The infix expression to be converted.
+            string infix = "((A + B) - C * (D / E)) + F";
+
+            // Convert the infix expression to postfix notation.
+            string postfix = ConvertInfixToPostfix(infix); 
+            
+            // Display the original infix expression.
+            Console.WriteLine($"Infix: {infix}"); // Infix: ((A + B) - C * (D / E)) + F
+
+            // Display the converted postfix expression.
+            Console.WriteLine($"Postfix: {postfix}"); // Postfix: AB+CDE/*-F+
         }
 
         // Method to convert an infix expression to postfix notation.

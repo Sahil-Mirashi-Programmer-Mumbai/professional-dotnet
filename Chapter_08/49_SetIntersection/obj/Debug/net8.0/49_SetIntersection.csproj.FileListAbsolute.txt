@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\bin\Debug\net8.0\49_SetIntersection.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\bin\Debug\net8.0\49_SetIntersection.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\bin\Debug\net8.0\49_SetIntersection.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\bin\Debug\net8.0\49_SetIntersection.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\bin\Debug\net8.0\49_SetIntersection.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\49_SetIntersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\49_SetIntersection.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\49_SetIntersection.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\49_SetIntersection.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\49_SetIntersection.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\49_SetIntersection.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\refint\49_SetIntersection.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\49_SetIntersection.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\49_SetIntersection.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\49_SetIntersection\obj\Debug\net8.0\ref\49_SetIntersection.dll

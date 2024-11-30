@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\bin\Debug\net8.0\54_RealTimeMonitoring.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\bin\Debug\net8.0\54_RealTimeMonitoring.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\bin\Debug\net8.0\54_RealTimeMonitoring.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\bin\Debug\net8.0\54_RealTimeMonitoring.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\bin\Debug\net8.0\54_RealTimeMonitoring.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\54_RealTimeMonitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\54_RealTimeMonitoring.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\54_RealTimeMonitoring.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\54_RealTimeMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\54_RealTimeMonitoring.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\54_RealTimeMonitoring.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\refint\54_RealTimeMonitoring.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\54_RealTimeMonitoring.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\54_RealTimeMonitoring.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\54_RealTimeMonitoring\obj\Debug\net8.0\ref\54_RealTimeMonitoring.dll

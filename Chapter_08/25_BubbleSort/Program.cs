@@ -10,7 +10,7 @@
  - Applications: Suitable for small data sets or teaching sorting basics.
  */
 
-namespace _25_BubbleSort
+namespace BubbleSort
 {
     class BubbleSortExample
     {

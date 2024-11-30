@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\bin\Debug\net8.0\47_SetSubsetSuperset.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\bin\Debug\net8.0\47_SetSubsetSuperset.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\bin\Debug\net8.0\47_SetSubsetSuperset.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\bin\Debug\net8.0\47_SetSubsetSuperset.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\bin\Debug\net8.0\47_SetSubsetSuperset.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\47_SetSubsetSuperset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\47_SetSubsetSuperset.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\47_SetSubsetSuperset.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\47_SetSubsetSuperset.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\47_SetSubsetSuperset.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\47_SetSubsetSuperset.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\refint\47_SetSubsetSuperset.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\47_SetSubsetSuperset.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\47_SetSubsetSuperset.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\47_SetSubsetSuperset\obj\Debug\net8.0\ref\47_SetSubsetSuperset.dll

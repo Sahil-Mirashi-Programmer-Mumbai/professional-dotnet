@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\bin\Debug\net8.0\36_SortDictionaryByKey.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\bin\Debug\net8.0\36_SortDictionaryByKey.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\bin\Debug\net8.0\36_SortDictionaryByKey.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\bin\Debug\net8.0\36_SortDictionaryByKey.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\bin\Debug\net8.0\36_SortDictionaryByKey.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\36_SortDictionaryByKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\36_SortDictionaryByKey.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\36_SortDictionaryByKey.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\36_SortDictionaryByKey.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\36_SortDictionaryByKey.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\36_SortDictionaryByKey.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\refint\36_SortDictionaryByKey.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\36_SortDictionaryByKey.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\36_SortDictionaryByKey.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\36_SortDictionaryByKey\obj\Debug\net8.0\ref\36_SortDictionaryByKey.dll

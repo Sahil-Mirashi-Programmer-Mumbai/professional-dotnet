@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\bin\Debug\net8.0\55_OptimizedSearch.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\bin\Debug\net8.0\55_OptimizedSearch.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\bin\Debug\net8.0\55_OptimizedSearch.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\bin\Debug\net8.0\55_OptimizedSearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\bin\Debug\net8.0\55_OptimizedSearch.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\55_OptimizedSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\55_OptimizedSearch.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\55_OptimizedSearch.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\55_OptimizedSearch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\55_OptimizedSearch.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\55_OptimizedSearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\refint\55_OptimizedSearch.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\55_OptimizedSearch.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\55_OptimizedSearch.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\55_OptimizedSearch\obj\Debug\net8.0\ref\55_OptimizedSearch.dll

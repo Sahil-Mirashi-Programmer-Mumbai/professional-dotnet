@@ -10,7 +10,7 @@
  - Applications: Good for small or nearly sorted datasets.
  */
 
-namespace _27_InsertionSort
+namespace InsertionSort
 {
     class InsertionSortExample
     {
@@ -22,16 +22,16 @@ namespace _27_InsertionSort
             // Iterate through each element starting from the second element
             for (int outerLoopCounter = 1; outerLoopCounter < lengthOfArray; outerLoopCounter++)
             {
-                int key = array[outerLoopCounter]; // Element to be inserted into the sorted part
+                int temp = array[outerLoopCounter]; // Element to be inserted into the sorted part
                 int innerLoopCounter = outerLoopCounter - 1;
 
-                // Move elements of array[0..outerLoopCounter-1] that are greater than key one position ahead
-                while (innerLoopCounter >= 0 && array[innerLoopCounter] > key)
+                // Move elements of array[0..outerLoopCounter-1] that are greater than temp one position ahead
+                while (innerLoopCounter >= 0 && array[innerLoopCounter] > temp)
                 {
                     array[innerLoopCounter + 1] = array[innerLoopCounter];
                     innerLoopCounter--;
                 }
-                array[innerLoopCounter + 1] = key; // Insert key at the correct position
+                array[innerLoopCounter + 1] = temp; // Insert temp at the correct position
             }
         }
 

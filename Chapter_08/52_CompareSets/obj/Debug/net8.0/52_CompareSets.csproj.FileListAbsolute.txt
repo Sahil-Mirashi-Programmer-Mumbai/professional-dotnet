@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\bin\Debug\net8.0\52_CompareSets.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\bin\Debug\net8.0\52_CompareSets.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\bin\Debug\net8.0\52_CompareSets.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\bin\Debug\net8.0\52_CompareSets.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\bin\Debug\net8.0\52_CompareSets.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\52_CompareSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\52_CompareSets.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\52_CompareSets.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\52_CompareSets.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\52_CompareSets.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\52_CompareSets.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\refint\52_CompareSets.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\52_CompareSets.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\52_CompareSets.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\52_CompareSets\obj\Debug\net8.0\ref\52_CompareSets.dll

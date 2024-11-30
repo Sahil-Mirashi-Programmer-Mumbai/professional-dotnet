@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\bin\Debug\net8.0\35_CustomTypeDictionary.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\bin\Debug\net8.0\35_CustomTypeDictionary.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\bin\Debug\net8.0\35_CustomTypeDictionary.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\bin\Debug\net8.0\35_CustomTypeDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\bin\Debug\net8.0\35_CustomTypeDictionary.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\35_CustomTypeDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\35_CustomTypeDictionary.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\35_CustomTypeDictionary.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\35_CustomTypeDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\35_CustomTypeDictionary.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\35_CustomTypeDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\refint\35_CustomTypeDictionary.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\35_CustomTypeDictionary.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\35_CustomTypeDictionary.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\35_CustomTypeDictionary\obj\Debug\net8.0\ref\35_CustomTypeDictionary.dll

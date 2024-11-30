@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\bin\Debug\net8.0\32_RadixSort.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\bin\Debug\net8.0\32_RadixSort.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\bin\Debug\net8.0\32_RadixSort.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\bin\Debug\net8.0\32_RadixSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\bin\Debug\net8.0\32_RadixSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\32_RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\32_RadixSort.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\32_RadixSort.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\32_RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\32_RadixSort.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\32_RadixSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\refint\32_RadixSort.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\32_RadixSort.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\32_RadixSort.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\32_RadixSort\obj\Debug\net8.0\ref\32_RadixSort.dll

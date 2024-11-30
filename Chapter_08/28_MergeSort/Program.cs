@@ -1,79 +1,102 @@
 ﻿// Program to demonstrate Merge Sort in C# with Visual Studio
 // Programmer: Sahil Mirashi
 
-/* 
- Explanation:
- - Merge Sort is a divide-and-conquer algorithm that divides the array into halves,
-   sorts each half recursively, and then merges them back together.
- - Time complexity: O(n log n), making it efficient for large datasets.
- - Applications: Suitable for sorting linked lists and external sorting.
- */
-
-namespace _28_MergeSort
+namespace MergeSort
 {
-    class MergeSortExample
+    internal class Program
     {
-        public static void MergeSort(int[] numbers, int lowerIndex, int higherIndex)
+        public static void MergeSort(int[] numbers, int low, int high)
         {
-            if (lowerIndex == higherIndex)
+            // Base case: If the subarray contains only one element the array is already sorted
+            if (low < high)
             {
-                return;
+                // Calculate the middle index of subarray
+                int mid = (low + high) / 2;
+
+                // Recursive case: Recursively sort the left half of the subarray
+                MergeSort(numbers, low, mid);
+
+                // Recursive case: Recursively sort the right half of the subarray
+                MergeSort(numbers, mid + 1, high);
+
+                // Merge the two sorted subarrays into a single sorted array
+                Merge(numbers, low, mid, high);
             }
-
-            int middleIndex = (lowerIndex + higherIndex) / 2;
-
-            MergeSort(numbers, lowerIndex, middleIndex);
-            MergeSort(numbers, middleIndex + 1, higherIndex);
-            Merge(numbers, lowerIndex, middleIndex, higherIndex);
         }
 
-        public static void Merge(int[] numbers, int lowerIndex, int middleIndex, int higherIndex)
+        public static void Merge(int[] numbers, int low, int mid, int high)
         {
-            int leftIndex = lowerIndex; ;
-            int rightIndex = middleIndex + 1;
+            // Initialize pointers for traversing the left and right subarrays
+            int left = low;
+            int right = mid + 1;
+
+            // Create a temporary list to store the merged result
             List<int> temp = new List<int>();
 
-            while (leftIndex <= middleIndex && rightIndex <= higherIndex)
+            // Compare elements from both the subarrays and merge them in sorted order
+            while (left <= mid && right <= high)
             {
-                if (numbers[leftIndex] <= numbers[rightIndex])
+                if (numbers[left] < numbers[right])
                 {
-                    temp.Add(numbers[leftIndex]);
-                    leftIndex++;
+                    temp.Add(numbers[left]);
+                    left++;
                 }
                 else
                 {
-                    temp.Add(numbers[rightIndex]);
-                    rightIndex++;
+                    temp.Add(numbers[right]);
+                    right++;
                 }
             }
 
-            while (leftIndex <= middleIndex)
+            // Adding remaining elements from left subarray
+            while (left <= mid)
             {
-                temp.Add(numbers[leftIndex]);
-                leftIndex++;
+                temp.Add(numbers[left]);
+                left++;
             }
 
-            while (rightIndex <= higherIndex)
+            // Adding remaining element from right subarray
+            while (right <= high)
             {
-                temp.Add(numbers[rightIndex]);
-                rightIndex++;
+                temp.Add(numbers[right]);
+                right++;
             }
 
-            for (int i = lowerIndex; i <= higherIndex; i++)
+            // Copy the merge elements back to the original array
+            for (int i = low; i <= high; i++)
             {
-                numbers[i] = temp[i - lowerIndex];
+                numbers[i] = temp[i - low];
             }
         }
 
         static void Main(string[] args)
         {
-            int[] numbers = { 82, 19, 47, 91, 64, 73, 15, 28 };
+            Console.WriteLine("Program to demonstrate Merge Sort in C# with Visual Studio\n");
 
-            Console.WriteLine($"Unsorted: {string.Join(" ", numbers)}");
+            // Create a Random object
+            Random random = new Random();
+
+            // Define the range
+            int startRange = 1;
+            int endRange = 100;
+
+            // Define how many random numbers to generate
+            int count = 5;
+
+            // Create an array to store random numbers
+            int[] numbers = new int[count];
+
+            // Generate random numbers
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                numbers[i] = random.Next(startRange, endRange);
+            }
+
+            Console.WriteLine($"Unsorted array: {string.Join(' ', numbers)}");
 
             MergeSort(numbers, 0, numbers.Length - 1);
 
-            Console.WriteLine($"Sorted: {string.Join(" ", numbers)}");
+            Console.WriteLine($"Sorted array: {string.Join(' ', numbers)}");
         }
     }
 }

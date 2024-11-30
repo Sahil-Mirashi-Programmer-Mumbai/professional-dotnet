@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\bin\Debug\net8.0\51_SymmetricDifference.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\bin\Debug\net8.0\51_SymmetricDifference.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\bin\Debug\net8.0\51_SymmetricDifference.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\bin\Debug\net8.0\51_SymmetricDifference.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\bin\Debug\net8.0\51_SymmetricDifference.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\51_SymmetricDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\51_SymmetricDifference.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\51_SymmetricDifference.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\51_SymmetricDifference.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\51_SymmetricDifference.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\51_SymmetricDifference.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\refint\51_SymmetricDifference.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\51_SymmetricDifference.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\51_SymmetricDifference.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\51_SymmetricDifference\obj\Debug\net8.0\ref\51_SymmetricDifference.dll

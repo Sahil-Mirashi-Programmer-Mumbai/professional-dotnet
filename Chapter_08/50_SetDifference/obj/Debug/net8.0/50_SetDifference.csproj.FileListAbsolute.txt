@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\bin\Debug\net8.0\50_SetDifference.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\bin\Debug\net8.0\50_SetDifference.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\bin\Debug\net8.0\50_SetDifference.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\bin\Debug\net8.0\50_SetDifference.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\bin\Debug\net8.0\50_SetDifference.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\50_SetDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\50_SetDifference.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\50_SetDifference.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\50_SetDifference.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\50_SetDifference.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\50_SetDifference.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\refint\50_SetDifference.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\50_SetDifference.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\50_SetDifference.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\50_SetDifference\obj\Debug\net8.0\ref\50_SetDifference.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03_UsingQueueForTaskScheduling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+861d363d38624788a32b68162e19a8cdcb6ad8bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a3986a9865b24a542d6184d8e6bebcdabd6cee3")]
 [assembly: System.Reflection.AssemblyProductAttribute("03_UsingQueueForTaskScheduling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03_UsingQueueForTaskScheduling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

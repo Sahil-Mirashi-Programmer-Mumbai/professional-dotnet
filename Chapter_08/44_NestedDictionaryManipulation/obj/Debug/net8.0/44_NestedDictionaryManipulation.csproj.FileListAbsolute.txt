@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\bin\Debug\net8.0\44_NestedDictionaryManipulation.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\bin\Debug\net8.0\44_NestedDictionaryManipulation.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\bin\Debug\net8.0\44_NestedDictionaryManipulation.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\bin\Debug\net8.0\44_NestedDictionaryManipulation.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\bin\Debug\net8.0\44_NestedDictionaryManipulation.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\44_NestedDictionaryManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\44_NestedDictionaryManipulation.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\44_NestedDictionaryManipulation.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\44_NestedDictionaryManipulation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\44_NestedDictionaryManipulation.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\44_NestedDictionaryManipulation.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\refint\44_NestedDictionaryManipulation.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\44_NestedDictionaryManipulation.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\44_NestedDictionaryManipulation.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_08\44_NestedDictionaryManipulation\obj\Debug\net8.0\ref\44_NestedDictionaryManipulation.dll
