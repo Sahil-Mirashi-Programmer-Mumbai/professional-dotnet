@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SummingAllElementsIn2DArray_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92f9731253e0fc48f7284f0f63861a681891ee29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e4dcb374de8c335be22ab17f2d7463f24b316f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SummingAllElementsIn2DArray_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SummingAllElementsIn2DArray_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

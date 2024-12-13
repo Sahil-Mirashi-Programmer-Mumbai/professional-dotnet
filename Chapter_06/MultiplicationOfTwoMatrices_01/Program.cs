@@ -25,14 +25,14 @@ namespace MultiplicationOfTwoMatrices_01
             int[,] resultMatrix = new int[firstMatrixRowCount, firstMatrixColumnCount];
 
             // Matrix multiplication logic
-            for (int firstMatrixRowCounter = 0; firstMatrixRowCounter < firstMatrixRowCount; firstMatrixRowCounter++) // Iterating over rows of firstMatrix
+            // Iterating over rows of firstMatrix
+            for (int firstMatrixRowCounter = 0; firstMatrixRowCounter < firstMatrixRowCount; firstMatrixRowCounter++)
             {
-                for (int secondMatrixColumnCounter = 0; secondMatrixColumnCounter < secondMatrixColumnCount; secondMatrixColumnCounter++) // Iterating over columns of secondMatrix
+                for (int secondMatrixColumnCounter = 0; secondMatrixColumnCounter < secondMatrixColumnCount; secondMatrixColumnCounter++)
                 {
-                    for (int multiplicationCounter = 0; multiplicationCounter < firstMatrixColumnCount; multiplicationCounter++) // Iterating for multiplication
+                    for(int multiplicationCounter  = 0; multiplicationCounter < firstMatrixColumnCount; multiplicationCounter++)
                     {
-                        resultMatrix[firstMatrixRowCounter, secondMatrixColumnCounter] += firstMatrix[firstMatrixRowCounter, multiplicationCounter] * secondMatrix[multiplicationCounter, secondMatrixColumnCounter]; // Matrix multiplication
-
+                        resultMatrix[firstMatrixRowCounter, secondMatrixColumnCounter] += firstMatrix[firstMatrixRowCounter, multiplicationCounter] * secondMatrix[multiplicationCounter, secondMatrixColumnCounter];
                     }
                 }
             }

@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\bin\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\bin\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\bin\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\bin\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\bin\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\refint\WorkingWithLargeArraysEfficiently_01.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\WorkingWithLargeArraysEfficiently_01.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\WorkingWithLargeArraysEfficiently_01\obj\Debug\net8.0\ref\WorkingWithLargeArraysEfficiently_01.dll
