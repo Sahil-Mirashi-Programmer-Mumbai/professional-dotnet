@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\bin\Debug\net8.0\01_SingletonPattern.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\bin\Debug\net8.0\01_SingletonPattern.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\bin\Debug\net8.0\01_SingletonPattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\bin\Debug\net8.0\01_SingletonPattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\bin\Debug\net8.0\01_SingletonPattern.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\01_SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\01_SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\01_SingletonPattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\01_SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\01_SingletonPattern.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\01_SingletonPattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\refint\01_SingletonPattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\01_SingletonPattern.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\01_SingletonPattern.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\01_SingletonPattern\obj\Debug\net8.0\ref\01_SingletonPattern.dll

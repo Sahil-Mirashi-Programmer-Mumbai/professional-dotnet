@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\bin\Debug\net8.0\04_StrategyPattern.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\bin\Debug\net8.0\04_StrategyPattern.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\bin\Debug\net8.0\04_StrategyPattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\bin\Debug\net8.0\04_StrategyPattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\bin\Debug\net8.0\04_StrategyPattern.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\04_StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\04_StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\04_StrategyPattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\04_StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\04_StrategyPattern.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\04_StrategyPattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\refint\04_StrategyPattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\04_StrategyPattern.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\04_StrategyPattern.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_06\04_StrategyPattern\obj\Debug\net8.0\ref\04_StrategyPattern.dll
