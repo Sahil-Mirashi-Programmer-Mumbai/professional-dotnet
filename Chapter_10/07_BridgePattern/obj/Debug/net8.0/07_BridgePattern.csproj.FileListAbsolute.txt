@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\bin\Debug\net8.0\07_BridgePattern.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\bin\Debug\net8.0\07_BridgePattern.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\bin\Debug\net8.0\07_BridgePattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\bin\Debug\net8.0\07_BridgePattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\bin\Debug\net8.0\07_BridgePattern.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\07_BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\07_BridgePattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\07_BridgePattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\07_BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\07_BridgePattern.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\07_BridgePattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\refint\07_BridgePattern.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\07_BridgePattern.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\07_BridgePattern.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\07_BridgePattern\obj\Debug\net8.0\ref\07_BridgePattern.dll

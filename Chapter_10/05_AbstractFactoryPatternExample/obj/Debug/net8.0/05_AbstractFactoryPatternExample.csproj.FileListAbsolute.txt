@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\bin\Debug\net8.0\05_AbstractFactoryPatternExample.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\bin\Debug\net8.0\05_AbstractFactoryPatternExample.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\bin\Debug\net8.0\05_AbstractFactoryPatternExample.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\bin\Debug\net8.0\05_AbstractFactoryPatternExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\bin\Debug\net8.0\05_AbstractFactoryPatternExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\05_AbstractFactoryPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\05_AbstractFactoryPatternExample.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\05_AbstractFactoryPatternExample.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\05_AbstractFactoryPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\05_AbstractFactoryPatternExample.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\05_AbstractFactoryPatternExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\refint\05_AbstractFactoryPatternExample.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\05_AbstractFactoryPatternExample.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\05_AbstractFactoryPatternExample.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_10\05_AbstractFactoryPatternExample\obj\Debug\net8.0\ref\05_AbstractFactoryPatternExample.dll
