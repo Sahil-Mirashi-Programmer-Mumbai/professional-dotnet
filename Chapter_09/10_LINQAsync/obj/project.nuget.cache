@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBjIykKmZqw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\professional-dotnet\\Chapter_09\\10_LINQAsync\\10_LINQAsync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

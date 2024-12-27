@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\bin\Debug\net8.0\15_LINQLargeData.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\bin\Debug\net8.0\15_LINQLargeData.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\bin\Debug\net8.0\15_LINQLargeData.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\bin\Debug\net8.0\15_LINQLargeData.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\bin\Debug\net8.0\15_LINQLargeData.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\15_LINQLargeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\15_LINQLargeData.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\15_LINQLargeData.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\15_LINQLargeData.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\15_LINQLargeData.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\15_LINQLargeData.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\refint\15_LINQLargeData.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\15_LINQLargeData.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\15_LINQLargeData.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\15_LINQLargeData\obj\Debug\net8.0\ref\15_LINQLargeData.dll

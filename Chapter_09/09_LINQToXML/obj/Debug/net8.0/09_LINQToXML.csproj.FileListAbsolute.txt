@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\bin\Debug\net8.0\09_LINQToXML.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\bin\Debug\net8.0\09_LINQToXML.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\bin\Debug\net8.0\09_LINQToXML.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\bin\Debug\net8.0\09_LINQToXML.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\bin\Debug\net8.0\09_LINQToXML.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\09_LINQToXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\09_LINQToXML.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\09_LINQToXML.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\09_LINQToXML.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\09_LINQToXML.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\09_LINQToXML.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\refint\09_LINQToXML.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\09_LINQToXML.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\09_LINQToXML.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\09_LINQToXML\obj\Debug\net8.0\ref\09_LINQToXML.dll

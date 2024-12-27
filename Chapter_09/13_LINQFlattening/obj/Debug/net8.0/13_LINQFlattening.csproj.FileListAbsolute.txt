@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\bin\Debug\net8.0\13_LINQFlattening.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\bin\Debug\net8.0\13_LINQFlattening.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\bin\Debug\net8.0\13_LINQFlattening.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\bin\Debug\net8.0\13_LINQFlattening.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\bin\Debug\net8.0\13_LINQFlattening.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\13_LINQFlattening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\13_LINQFlattening.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\13_LINQFlattening.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\13_LINQFlattening.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\13_LINQFlattening.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\13_LINQFlattening.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\refint\13_LINQFlattening.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\13_LINQFlattening.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\13_LINQFlattening.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\13_LINQFlattening\obj\Debug\net8.0\ref\13_LINQFlattening.dll

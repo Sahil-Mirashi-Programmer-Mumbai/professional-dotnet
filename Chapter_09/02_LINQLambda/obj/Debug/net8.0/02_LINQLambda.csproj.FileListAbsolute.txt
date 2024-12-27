@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\bin\Debug\net8.0\02_LINQLambda.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\bin\Debug\net8.0\02_LINQLambda.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\bin\Debug\net8.0\02_LINQLambda.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\bin\Debug\net8.0\02_LINQLambda.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\bin\Debug\net8.0\02_LINQLambda.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\02_LINQLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\02_LINQLambda.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\02_LINQLambda.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\02_LINQLambda.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\02_LINQLambda.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\02_LINQLambda.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\refint\02_LINQLambda.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\02_LINQLambda.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\02_LINQLambda.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\02_LINQLambda\obj\Debug\net8.0\ref\02_LINQLambda.dll

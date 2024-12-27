@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\bin\Debug\net8.0\08_LINQAnonymousTypes.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\bin\Debug\net8.0\08_LINQAnonymousTypes.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\bin\Debug\net8.0\08_LINQAnonymousTypes.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\bin\Debug\net8.0\08_LINQAnonymousTypes.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\bin\Debug\net8.0\08_LINQAnonymousTypes.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\08_LINQAnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\08_LINQAnonymousTypes.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\08_LINQAnonymousTypes.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\08_LINQAnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\08_LINQAnonymousTypes.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\08_LINQAnonymousTypes.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\refint\08_LINQAnonymousTypes.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\08_LINQAnonymousTypes.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\08_LINQAnonymousTypes.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\08_LINQAnonymousTypes\obj\Debug\net8.0\ref\08_LINQAnonymousTypes.dll

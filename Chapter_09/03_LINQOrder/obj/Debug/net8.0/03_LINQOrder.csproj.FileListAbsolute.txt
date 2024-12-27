@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\bin\Debug\net8.0\03_LINQOrder.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\bin\Debug\net8.0\03_LINQOrder.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\bin\Debug\net8.0\03_LINQOrder.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\bin\Debug\net8.0\03_LINQOrder.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\bin\Debug\net8.0\03_LINQOrder.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\03_LINQOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\03_LINQOrder.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\03_LINQOrder.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\03_LINQOrder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\03_LINQOrder.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\03_LINQOrder.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\refint\03_LINQOrder.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\03_LINQOrder.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\03_LINQOrder.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\03_LINQOrder\obj\Debug\net8.0\ref\03_LINQOrder.dll

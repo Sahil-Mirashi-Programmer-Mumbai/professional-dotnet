@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\bin\Debug\net8.0\07_LINQAggregation.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\bin\Debug\net8.0\07_LINQAggregation.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\bin\Debug\net8.0\07_LINQAggregation.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\bin\Debug\net8.0\07_LINQAggregation.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\bin\Debug\net8.0\07_LINQAggregation.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\07_LINQAggregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\07_LINQAggregation.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\07_LINQAggregation.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\07_LINQAggregation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\07_LINQAggregation.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\07_LINQAggregation.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\refint\07_LINQAggregation.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\07_LINQAggregation.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\07_LINQAggregation.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\07_LINQAggregation\obj\Debug\net8.0\ref\07_LINQAggregation.dll

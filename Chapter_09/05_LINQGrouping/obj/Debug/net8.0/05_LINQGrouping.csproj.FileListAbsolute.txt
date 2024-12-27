@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\bin\Debug\net8.0\05_LINQGrouping.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\bin\Debug\net8.0\05_LINQGrouping.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\bin\Debug\net8.0\05_LINQGrouping.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\bin\Debug\net8.0\05_LINQGrouping.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\bin\Debug\net8.0\05_LINQGrouping.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\05_LINQGrouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\05_LINQGrouping.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\05_LINQGrouping.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\05_LINQGrouping.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\05_LINQGrouping.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\05_LINQGrouping.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\refint\05_LINQGrouping.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\05_LINQGrouping.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\05_LINQGrouping.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\05_LINQGrouping\obj\Debug\net8.0\ref\05_LINQGrouping.dll

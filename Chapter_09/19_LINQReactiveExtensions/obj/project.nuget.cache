@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9Wby61rlKg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\professional-dotnet\\Chapter_09\\19_LINQReactiveExtensions\\19_LINQReactiveExtensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.reactive.linq\\6.0.1\\system.reactive.linq.6.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\bin\Debug\net8.0\11_LINQRunningTotals.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\bin\Debug\net8.0\11_LINQRunningTotals.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\bin\Debug\net8.0\11_LINQRunningTotals.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\bin\Debug\net8.0\11_LINQRunningTotals.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\bin\Debug\net8.0\11_LINQRunningTotals.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\11_LINQRunningTotals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\11_LINQRunningTotals.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\11_LINQRunningTotals.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\11_LINQRunningTotals.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\11_LINQRunningTotals.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\11_LINQRunningTotals.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\refint\11_LINQRunningTotals.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\11_LINQRunningTotals.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\11_LINQRunningTotals.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\11_LINQRunningTotals\obj\Debug\net8.0\ref\11_LINQRunningTotals.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\bin\Debug\net8.0\04_LINQSelectProperties.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\bin\Debug\net8.0\04_LINQSelectProperties.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\bin\Debug\net8.0\04_LINQSelectProperties.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\bin\Debug\net8.0\04_LINQSelectProperties.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\bin\Debug\net8.0\04_LINQSelectProperties.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\04_LINQSelectProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\04_LINQSelectProperties.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\04_LINQSelectProperties.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\04_LINQSelectProperties.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\04_LINQSelectProperties.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\04_LINQSelectProperties.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\refint\04_LINQSelectProperties.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\04_LINQSelectProperties.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\04_LINQSelectProperties.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\04_LINQSelectProperties\obj\Debug\net8.0\ref\04_LINQSelectProperties.dll

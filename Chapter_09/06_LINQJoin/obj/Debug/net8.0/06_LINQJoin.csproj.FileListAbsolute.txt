@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\bin\Debug\net8.0\06_LINQJoin.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\bin\Debug\net8.0\06_LINQJoin.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\bin\Debug\net8.0\06_LINQJoin.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\bin\Debug\net8.0\06_LINQJoin.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\bin\Debug\net8.0\06_LINQJoin.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\06_LINQJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\06_LINQJoin.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\06_LINQJoin.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\06_LINQJoin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\06_LINQJoin.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\06_LINQJoin.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\refint\06_LINQJoin.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\06_LINQJoin.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\06_LINQJoin.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\06_LINQJoin\obj\Debug\net8.0\ref\06_LINQJoin.dll

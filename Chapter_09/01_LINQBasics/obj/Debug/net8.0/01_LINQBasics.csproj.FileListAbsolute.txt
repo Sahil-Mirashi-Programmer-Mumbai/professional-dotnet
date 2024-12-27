@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\bin\Debug\net8.0\01_LINQBasics.exe
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\bin\Debug\net8.0\01_LINQBasics.deps.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\bin\Debug\net8.0\01_LINQBasics.runtimeconfig.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\bin\Debug\net8.0\01_LINQBasics.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\bin\Debug\net8.0\01_LINQBasics.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\01_LINQBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\01_LINQBasics.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\01_LINQBasics.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\01_LINQBasics.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\01_LINQBasics.sourcelink.json
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\01_LINQBasics.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\refint\01_LINQBasics.dll
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\01_LINQBasics.pdb
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\01_LINQBasics.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\professional-dotnet\Chapter_09\01_LINQBasics\obj\Debug\net8.0\ref\01_LINQBasics.dll
