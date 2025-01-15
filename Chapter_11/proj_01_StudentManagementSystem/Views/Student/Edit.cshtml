@@ -1,0 +1,32 @@
+﻿@model proj_01_StudentManagementSystem.Models.Student
+
+<h1>Edit Student</h1>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+    <div>
+        <label for="Name">Name</label>
+        <input type="text" id="Name" name="Name" value="@Model.Name" required />
+    </div>
+    <div>
+        <label for="Age">Age</label>
+        <input type="number" id="Age" name="Age" value="@Model.Age" required />
+    </div>
+    <div>
+        <label for="Grade">Grade</label>
+        <input type="text" id="Grade" name="Grade" value="@Model.Grade" required />
+    </div>
+    <button type="submit">Save Changes</button>
+    <a asp-action="Index">Cancel</a>
+</form>
+
+@* 
+Explanation:
+
+Hidden Field for ID:
+    The Id property is included as a hidden field because it is needed to identify which student to update.
+Pre-filled Fields:
+    The value="@Model.PropertyName" attribute pre-fills the form with the current student’s data for editing.
+Form Submission:
+    Submits data to the Edit action in the StudentController.
+*@

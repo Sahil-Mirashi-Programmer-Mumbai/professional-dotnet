@@ -1,0 +1,27 @@
+﻿@model proj_01_StudentManagementSystem.Models.Student
+
+<h1>Delete Student</h1>
+
+<p>Are you sure you want to delete the following student?</p>
+
+<div>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Age:</strong> @Model.Age</p>
+    <p><strong>Grade:</strong> @Model.Grade</p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+    <button type="submit">Delete</button>
+    <a asp-action="Index">Cancel</a>
+</form>
+
+@* 
+Explanation:
+
+Display Student Details:
+    Displays the student’s details (Name, Age, Grade) for confirmation before deletion.
+Form Submission:
+    Submits to the DeleteConfirmed action in the StudentController.
+    The Id is passed as a hidden field to identify the student being deleted.
+*@
