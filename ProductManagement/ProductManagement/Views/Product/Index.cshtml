@@ -1,0 +1,50 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3">Product List</h2>
+
+    <a asp-action="Create" class="btn btn-primary mb-3">Add New Product</a>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Product ID</th>
+                    <th>Product Name</th>
+                    <th>Category ID</th>
+                    <th>Category Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.ProductId</td>
+                        <td>@product.ProductName</td>
+                        <td>@product.CategoryId</td>
+                        <td>@product.CategoryName</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@product.ProductId" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@product.ProductId" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center" role="alert">
+            <h4 class="alert-heading">No Products Found</h4>
+            <p>There are currently no products in the system.</p>
+            <hr>
+            <a asp-action="Create" class="btn btn-success">Create a New Product</a>
+        </div>
+    }
+</div>

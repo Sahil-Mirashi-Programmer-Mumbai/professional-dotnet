@@ -1,0 +1,20 @@
+﻿@model ProductManagement.Models.Category
+
+@{
+    ViewData["Title"] = "Create Category";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3">Create New Category</h2>
+
+    <form asp-action="Create" method="post" class="card p-4 shadow-sm">
+        <div class="form-group">
+            <label asp-for="CategoryName" class="control-label"></label>
+            <input asp-for="CategoryName" class="form-control" required />
+            <span asp-validation-for="CategoryName" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3">Save</button>
+        <a asp-action="Index" class="btn btn-secondary mt-3">Cancel</a>
+    </form>
+</div>
