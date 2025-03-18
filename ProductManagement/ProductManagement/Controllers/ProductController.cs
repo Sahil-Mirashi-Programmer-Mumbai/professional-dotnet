@@ -8,32 +8,32 @@ namespace ProductManagement.Controllers
     public class ProductController : Controller
     {
         private readonly ApplicationDbContext _db;
+        private const int PageSize = 5;
 
         public ProductController(ApplicationDbContext context)
         {
             _db = context;
         }
-        public ActionResult Index(int page = 1, int pageSize = 5)
+
+        public async Task<IActionResult> Index(int page = 1)
         {
-            var products = _db.Products.Select(p => new
-            {
-                ProductId = p.ProductId,
-                ProductName = p.ProductName,
-                CategoryId = p.CategoryId,
-                CategoryName = p.Category.CategoryName
-            }).ToList<dynamic>();
+            // count the total number of products
+            var totalProducts = await _db.Products.CountAsync();
+            var products = await _db.Products
+                .Include(p => p.Category)
+                .OrderBy(p => p.ProductId)
+                .Skip((page - 1) * PageSize)
+                .Take(PageSize)
+                .ToListAsync();
 
-            ViewBag.Page = page;
-            ViewBag.PageSize = pageSize;
-            ViewBag.TotalCount = _db.Products.Count();
+            var pagedList = new PagedList<Product>(products, totalProducts, page, PageSize);
 
-            return View(products);
+            return View(pagedList);
         }
 
         public IActionResult Create()
         {
             ViewBag.Categories = new SelectList(_db.Categories, "CategoryId", "CategoryName");
-            //ViewBag.Categories = _db.Categories.ToList();
             return View();
         }
 
